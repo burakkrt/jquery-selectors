@@ -2,7 +2,7 @@
 
 Accessing the dom elements in detail and in a single move with attribute selectors in jquery.
 
-- [**GoLive**](https://vitejs.dev)
+- [**GoLive**](https://burakkrt.github.io/jquery-selectors/)
 
 ## Technologies
 
